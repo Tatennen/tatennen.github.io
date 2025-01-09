@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
+    title: 'José Ramírez Cortés',
+    subtitle: 'Aquí esta mi primer Blog',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
@@ -59,8 +59,8 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Tags',
-            href: '/tags'
+            text: 'Github',
+            href: 'https://github.com/Tatennen'
         }
     ],
     footerNavLinks: [
