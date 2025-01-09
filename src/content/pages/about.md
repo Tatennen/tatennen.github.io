@@ -12,13 +12,15 @@ seo:
 
 **Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-## Ethan Donovan - Web Developer based in Estonia
+## José Ramírez Cortés - Técnico en ciberseguridad
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hola!** Mi nombre es José Ramírez Cortes, Técnico Nivel Superior en Ciberseguridad titulado del Instituto Profesional IACC. Durante mi formación y experiencia laboral, he desarrollado habilidades esenciales en la gestión de riesgos de seguridad, auditoría interna ISO 27001:2022 y pruebas hacking ético. 
 
-## Skills and Expertise
+## Habilidades y experiencia
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+Mi trayectoria profesional incluye roles en los sectores de minería y seguridad privada, donde he desarrollado competencias clave en la coordinación de trabajos con equipos interdisciplinarios
+Apasionado por la tecnología y la ciberseguridad, y poseo la capacidad para identificar y mitigar riesgos de manera eficiente. Mis labores en pentesting han incluido la ejecución de hacking ético para identificar vulnerabilidades y mejorar la seguridad de los sistemas. Además, cuento con la certificación de Auditor Interno ISO 27001:2022, que me ha proporcionado conocimientos sobre la implementación de un Sistema de Gestión de Seguridad de la Información (SGSI), la identificación y evaluación de riesgos, y la gestión de auditorías internas. Entre mis habilidades se encuentran la organización e impartición de capacitaciones sobre el uso seguro de internet, así como la coordinación de esfuerzos con empresas colaboradoras para fortalecer la seguridad informática. Confío en que mi dedicación y mis habilidades técnicas contribuirán significativamente al fortalecimiento de su equipo de ciberseguridad. Agradezco su tiempo y consideración, y quedo a su disposición para cualquier consulta adicional.
+
 
 ## Innovation and Problem-Solving
 
