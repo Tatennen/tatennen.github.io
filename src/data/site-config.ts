@@ -75,16 +75,12 @@ const siteConfig: SiteConfig = {
         {
             text: 'Terms',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/jose-ramirez-cortes/'
         },
         {
             text: 'Instagram',
