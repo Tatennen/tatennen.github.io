@@ -47,11 +47,11 @@ const siteConfig: SiteConfig = {
     },
     headerNavLinks: [
         {
-            text: 'Home',
+            text: 'Inicio',
             href: '/'
         },
         {
-            text: 'Projects',
+            text: 'Proyectos',
             href: '/projects'
         },
         {
@@ -59,21 +59,21 @@ const siteConfig: SiteConfig = {
             href: '/blog'
         },
         {
-            text: 'Github',
+            text: 'Mi Github',
             href: 'https://github.com/Tatennen'
         }
     ],
     footerNavLinks: [
         {
-            text: 'About',
+            text: 'Acerca de',
             href: '/about'
         },
         {
-            text: 'Contact',
+            text: 'Contacto',
             href: '/contact'
         },
         {
-            text: 'Terms',
+            text: 'Términos',
             href: '/terms'
         }
     ],
