@@ -23,25 +23,25 @@ La ISO/IEC 27001:2022 es una actualización de la norma ISO/IEC 27001, que propo
 
 La versión 2022 de la ISO/IEC 27001 introduce varias actualizaciones importantes para mantenerse al día con las tendencias y desafíos actuales en la seguridad de la información. Estos cambios incluyen:
 
-Nuevos Controles y Revisión de Controles Existentes: Se han añadido y actualizado controles para reflejar mejor las amenazas modernas.
+* Nuevos Controles y Revisión de Controles Existentes: Se han añadido y actualizado controles para reflejar mejor las amenazas modernas.
 
-Énfasis en la Mejora Continua: Se refuerza la necesidad de una evaluación y mejora continua del SGSI para adaptarse a los cambios en el entorno de amenazas.
+* Énfasis en la Mejora Continua: Se refuerza la necesidad de una evaluación y mejora continua del SGSI para adaptarse a los cambios en el entorno de amenazas.
 
-Alineación con Otras Normas: La nueva versión busca una mayor alineación con otras normas internacionales de gestión, facilitando la integración de varios sistemas de gestión.
+* Alineación con Otras Normas: La nueva versión busca una mayor alineación con otras normas internacionales de gestión, facilitando la integración de varios sistemas de gestión.
 
 ## Beneficios de Implementar la ISO/IEC 27001:2022
 
 La adopción de la ISO/IEC 27001:2022 ofrece múltiples beneficios para las organizaciones:
 
-Protección Contra Amenazas: Proporciona un marco estructurado para identificar y mitigar riesgos, protegiendo la información contra accesos no autorizados, brechas de datos y ciberataques.
+1. Protección Contra Amenazas: Proporciona un marco estructurado para identificar y mitigar riesgos, protegiendo la información contra accesos no autorizados, brechas de datos y ciberataques.
 
-Cumplimiento Regulatorio: Ayuda a las organizaciones a cumplir con requisitos legales y regulatorios relacionados con la seguridad de la información.
+2. Cumplimiento Regulatorio: Ayuda a las organizaciones a cumplir con requisitos legales y regulatorios relacionados con la seguridad de la información.
 
-Confianza y Reputación: La certificación en ISO/IEC 27001:2022 demuestra el compromiso de una organización con la seguridad, aumentando la confianza de clientes, socios y partes interesadas.
+3. Confianza y Reputación: La certificación en ISO/IEC 27001:2022 demuestra el compromiso de una organización con la seguridad, aumentando la confianza de clientes, socios y partes interesadas.
 
-Eficiencia Operativa: Establece políticas y procedimientos claros que mejoran la eficiencia operativa y la gestión de la información.
+4. Eficiencia Operativa: Establece políticas y procedimientos claros que mejoran la eficiencia operativa y la gestión de la información.
 
-Ventaja Competitiva: La certificación puede diferenciar a una organización en el mercado, demostrando su enfoque proactivo hacia la seguridad de la información.
+5. Ventaja Competitiva: La certificación puede diferenciar a una organización en el mercado, demostrando su enfoque proactivo hacia la seguridad de la información.
 
 ## La ISO/IEC 27001:2022 y la Transformación Digital
 
