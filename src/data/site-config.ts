@@ -93,7 +93,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: '¡Hola y bienvenido a Mi rincón de la Web!',
-        text: "Mi nombre **José Ramírez Cortés**, Profesional en inicio de carrera en Ciberseguridad, con formación en normativas de seguridad y técnicas de hacking ético. Con habilidades en auditorías de seguridad y creación de políticas de protección, busco aportar a la seguridad informática de las organizaciones. Apasionado por la tecnología y el aprendizaje continuo en un campo dinámico y en constante evolución.<a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "Mi nombre **José Ramírez Cortés**, Profesional en inicio de carrera en Ciberseguridad, con formación en normativas de seguridad y técnicas de hacking ético. Con habilidades en auditorías de seguridad y creación de políticas de protección, busco aportar a la seguridad informática de las organizaciones. Apasionado por la tecnología y el aprendizaje continuo en un campo dinámico y en constante evolución. <a href='https://github.com/Tatennen'>GitHub</a> or follow me on <a href='https://twitter.com'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
             alt: 'A person sitting at a desk in front of a computer'
