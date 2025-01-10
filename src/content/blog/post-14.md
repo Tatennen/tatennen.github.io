@@ -1,7 +1,7 @@
 ---
 title: La Importancia de la Norma ISO/IEC 27001:2022 en la Actualidad
 excerpt: En un mundo cada vez más digitalizado, la seguridad de la información se ha convertido en una prioridad crucial para organizaciones de todos los tamaños y sectores. La norma ISO/IEC 27001:2022, un estándar internacional para la implementación de un Sistema de Gestión de Seguridad de la Información (SGSI), ofrece una guía completa y estructurada para proteger la información sensible de las amenazas crecientes. En este artículo, exploraremos la relevancia y beneficios de la ISO/IEC 27001:2022 en el contexto actual.
-publishDate: 'Jan 11 2024'
+publishDate: 'Jan 10 2025'
 isFeatured: true
 tags:
   - Web
