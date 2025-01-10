@@ -1,7 +1,7 @@
 ---
-title: About
+title: Acerca de 
 seo:
-  title: About Me
+  title: acerca de Mi
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
     src: '/about.jpeg'
@@ -9,8 +9,6 @@ seo:
 ---
 
 ![Alt text for image](/about.jpeg)
-
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
 ## José Ramírez Cortés - Técnico en ciberseguridad
 
