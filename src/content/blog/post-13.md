@@ -14,7 +14,7 @@ seo:
 
 ![Abstract snow](/post-13.jpg)
 
-Hoy en día, la tecnología es parte de nuestra vida cotidiana. La tecnología informática, en particular, está presente desde que nos levantamos hasta que nos acostamos. Si lo pensamos bien, esta tecnología es relativamente joven. La computación, tal y como la conocemos hoy, es tan accesible y común, que parece increíble lo rápido que ha evolucionado si lo comparamos con la historia de la humanidad.
+<p style="text-align: justify;">Hoy en día, la tecnología es parte de nuestra vida cotidiana. La tecnología informática, en particular, está presente desde que nos levantamos hasta que nos acostamos. Si lo pensamos bien, esta tecnología es relativamente joven. La computación, tal y como la conocemos hoy, es tan accesible y común, que parece increíble lo rápido que ha evolucionado si lo comparamos con la historia de la humanidad.</p>
 
 > Esta tecnología, que al principio estaba destinada solo al ámbito empresarial, científico y universitario, pronto se expandió a toda la sociedad, provocando un "boom" tecnológico.
 
