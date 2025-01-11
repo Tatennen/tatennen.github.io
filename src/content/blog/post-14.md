@@ -16,6 +16,7 @@ seo:
 
 
 <p style="text-align: justify;">En un mundo cada vez más digitalizado, la seguridad de la información se ha convertido en una prioridad crucial para organizaciones de todos los tamaños y sectores. La norma ISO/IEC 27001:2022, un estándar internacional para la implementación de un Sistema de Gestión de Seguridad de la Información (SGSI), ofrece una guía completa y estructurada para proteger la información sensible de las amenazas crecientes. En este artículo, exploraremos la relevancia y beneficios de la ISO/IEC 27001:2022 en el contexto actual.
+
 La ISO/IEC 27001:2022 es una actualización de la norma ISO/IEC 27001, que proporciona los requisitos para establecer, implementar, mantener y mejorar continuamente un SGSI. Esta norma internacional se basa en un enfoque de gestión de riesgos, garantizando que las organizaciones identifiquen, evalúen y gestionen los riesgos de seguridad de la información de manera eficaz.</p>
 
 > La adopción de la ISO/IEC 27001:2022 ofrece múltiples beneficios para las organizaciones.
