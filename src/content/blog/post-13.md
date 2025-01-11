@@ -16,35 +16,35 @@ seo:
 
 <p style="text-align: justify;">Hoy en día, la tecnología es parte de nuestra vida cotidiana. La tecnología informática, en particular, está presente desde que nos levantamos hasta que nos acostamos. Si lo pensamos bien, esta tecnología es relativamente joven. La computación, tal y como la conocemos hoy, es tan accesible y común, que parece increíble lo rápido que ha evolucionado si lo comparamos con la historia de la humanidad.</p>
 
-> Esta tecnología, que al principio estaba destinada solo al ámbito empresarial, científico y universitario, pronto se expandió a toda la sociedad, provocando un "boom" tecnológico.
+> <p style="text-align: justify;">Esta tecnología, que al principio estaba destinada solo al ámbito empresarial, científico y universitario, pronto se expandió a toda la sociedad, provocando un "boom" tecnológico.</p>
 
 ## Los Primeros Pasos de la Computación
 
-Los primeros intentos de crear una computadora (como sistema informático) datan de la década de 1940 del siglo pasado, con la creación de computadoras como la ENIAC. La evolución desde esos primeros días hasta las computadoras actuales es impresionante, con una capacidad de procesamiento mucho mayor.
-Esta tecnología, que al principio estaba destinada solo al ámbito empresarial, científico y universitario, pronto se expandió a toda la sociedad, provocando un "boom" tecnológico. Esta expansión también impulsó el desarrollo de diversas ramas y aplicaciones tecnológicas que ahora son parte integral de nuestra vida cotidiana.
+<p style="text-align: justify;">Los primeros intentos de crear una computadora (como sistema informático) datan de la década de 1940 del siglo pasado, con la creación de computadoras como la ENIAC. La evolución desde esos primeros días hasta las computadoras actuales es impresionante, con una capacidad de procesamiento mucho mayor.
+Esta tecnología, que al principio estaba destinada solo al ámbito empresarial, científico y universitario, pronto se expandió a toda la sociedad, provocando un "boom" tecnológico. Esta expansión también impulsó el desarrollo de diversas ramas y aplicaciones tecnológicas que ahora son parte integral de nuestra vida cotidiana.</p>
 
 
 ## La Revolución de los Smartphones
 
-TOtro gran cambio tecnológico ha sido el de la tecnología móvil. Los primeros smartphones comenzaron a aparecer en la década de 2000, pero fue con el lanzamiento del iPhone en 2007 que esta tecnología realmente despegó. Desde entonces, no han dejado de evolucionar hasta el punto de que hoy pueden competir con los computadores en cuanto a capacidad y procesamiento. Prácticamente tenemos toda la información del mundo en la palma de la mano (aunque muchas veces la usemos solo para el ocio).
+<p style="text-align: justify;">Otro gran cambio tecnológico ha sido el de la tecnología móvil. Los primeros smartphones comenzaron a aparecer en la década de 2000, pero fue con el lanzamiento del iPhone en 2007 que esta tecnología realmente despegó. Desde entonces, no han dejado de evolucionar hasta el punto de que hoy pueden competir con los computadores en cuanto a capacidad y procesamiento. Prácticamente tenemos toda la información del mundo en la palma de la mano (aunque muchas veces la usemos solo para el ocio).</p>
 
 ## Crecimiento y Riesgos en la Era Digital
 
-La evolución de la tecnología de la información ha sido rápida y asombrosa, permitiéndonos acceder a cantidades masivas de información y conectar con personas en todo el mundo. Sin embargo, este progreso también ha incrementado nuestra exposición a riesgos informáticos. A medida que dependemos más de sistemas digitales para nuestras actividades diarias, desde realizar transacciones bancarias hasta almacenar información personal, los ciberdelincuentes han encontrado más oportunidades para delitos.
+<p style="text-align: justify;">La evolución de la tecnología de la información ha sido rápida y asombrosa, permitiéndonos acceder a cantidades masivas de información y conectar con personas en todo el mundo. Sin embargo, este progreso también ha incrementado nuestra exposición a riesgos informáticos. A medida que dependemos más de sistemas digitales para nuestras actividades diarias, desde realizar transacciones bancarias hasta almacenar información personal, los ciberdelincuentes han encontrado más oportunidades para delitos.</p>
 
 ## La Importancia de la Seguridad de la Información
 
-Esta mayor exposición a amenazas cibernéticas ha hecho que la seguridad de la información sea fundamental en nuestra vida cotidiana. La protección de datos y la implementación de medidas de ciberseguridad no son solo responsabilidades de las grandes empresas, sino de cada uno de nosotros, para salvaguardar nuestra privacidad y mantener la integridad de nuestros sistemas digitales. En un mundo cada vez más interconectado, la ciberseguridad se ha convertido en un pilar esencial para garantizar la confianza y seguridad en el entorno digital.
+<p style="text-align: justify;">Esta mayor exposición a amenazas cibernéticas ha hecho que la seguridad de la información sea fundamental en nuestra vida cotidiana. La protección de datos y la implementación de medidas de ciberseguridad no son solo responsabilidades de las grandes empresas, sino de cada uno de nosotros, para salvaguardar nuestra privacidad y mantener la integridad de nuestros sistemas digitales. En un mundo cada vez más interconectado, la ciberseguridad se ha convertido en un pilar esencial para garantizar la confianza y seguridad en el entorno digital.</p>
 
 ## Qué es la Ciberseguridad y por Qué es Esencial
 
-La ciberseguridad se refiere a las prácticas y tecnologías diseñadas para proteger nuestros dispositivos, redes y datos contra ataques maliciosos. Estos ataques pueden incluir robo de información personal, fraudes financieros, espionaje corporativo y sabotaje de infraestructuras críticas. A medida que dependemos más de la tecnología para nuestras actividades diarias, desde hacer compras en línea hasta manejar información sensible en nuestros trabajos, la importancia de la ciberseguridad no puede subestimarse.
+<p style="text-align: justify;">La ciberseguridad se refiere a las prácticas y tecnologías diseñadas para proteger nuestros dispositivos, redes y datos contra ataques maliciosos. Estos ataques pueden incluir robo de información personal, fraudes financieros, espionaje corporativo y sabotaje de infraestructuras críticas. A medida que dependemos más de la tecnología para nuestras actividades diarias, desde hacer compras en línea hasta manejar información sensible en nuestros trabajos, la importancia de la ciberseguridad no puede subestimarse.
 
-Además, los ciberdelincuentes son cada vez más sofisticados, utilizando tácticas avanzadas para explotar vulnerabilidades. No sabemos cuándo ni cómo podríamos ser víctimas de un ataque cibernético, por lo que es fundamental estar preparados y tomar medidas proactivas para protegernos.
+Además, los ciberdelincuentes son cada vez más sofisticados, utilizando tácticas avanzadas para explotar vulnerabilidades. No sabemos cuándo ni cómo podríamos ser víctimas de un ataque cibernético, por lo que es fundamental estar preparados y tomar medidas proactivas para protegernos.</p>
 
 ## Conclusion
 
-La ciberseguridad es una parte esencial de la vida moderna. Nos ayuda a proteger nuestra información personal y profesional, así como a mantener la integridad y la confianza en el entorno digital. Invertir en ciberseguridad no solo nos brinda tranquilidad, sino que también fortalece la resiliencia de nuestra sociedad frente a las amenazas cibernéticas
+<p style="text-align: justify;">La ciberseguridad es una parte esencial de la vida moderna. Nos ayuda a proteger nuestra información personal y profesional, así como a mantener la integridad y la confianza en el entorno digital. Invertir en ciberseguridad no solo nos brinda tranquilidad, sino que también fortalece la resiliencia de nuestra sociedad frente a las amenazas cibernéticas</p>
 
 <!-- > ## Web Vitals
 
