@@ -52,3 +52,15 @@
     }
     */
 }
+
+.hero-title {
+    font-size: 2.5rem; /* Tamaño del título principal */
+    font-weight: bold;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem; /* Tamaño del subtítulo */
+    font-style: italic;
+    color: #717171; /* Color del subtítulo */
+}
+
