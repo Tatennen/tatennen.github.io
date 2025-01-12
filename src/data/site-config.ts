@@ -91,19 +91,37 @@ const siteConfig: SiteConfig = {
             href: 'https://twitter.com/'
         }
     ],
-    hero: {
-        title: 'Protegiendo el Futuro Digital: Blog de Ciberseguridad y Concientización',
-    text: '<p style="text-align: justify;">Sobre mí Soy José Ramírez Cortés, profesional en ciberseguridad con formación en normativas de seguridad (ISO 27001) y técnicas avanzadas de hacking ético. Me especializo en: Realización de auditorías de seguridad para identificar vulnerabilidades críticas.Diseño e implementación de políticas de protección de datos adaptadas a las necesidades organizacionales.Aplicación de normativas y estándares internacionales para garantizar la seguridad de los sistemas. Además de mi enfoque técnico, considero fundamental la formación y la concientización sobre ciberseguridad. Creo que educar a las personas es clave para prevenir amenazas y fortalecer la seguridad desde el factor humano. Por ello, comparto conocimientos, guías prácticas y estrategias para fomentar una cultura de seguridad en las organizaciones. Mi objetivo es contribuir al desarrollo de un entorno digital más seguro y resiliente mediante soluciones prácticas, educación y mejores prácticas del sector.📂 Consulta mis proyectos y contribuciones en <a href="https://github.com/Tatennen">GitHub</a> .</p>',
-        image: {
-            src: '/sec.jpg',
-            alt: 'A person sitting at a desk in front of a computer'
-        },
-        actions: [
-            {
-                text: 'Get in Touch',
-                href: '/contact'
-            }
-        ]
+   hero: {
+    title: 'Protegiendo el Futuro Digital: Blog de Ciberseguridad y Concientización',
+    text: `
+        <p style="text-align: justify;">
+            <strong>Sobre mí</strong><br>
+            Soy José Ramírez Cortés, profesional en ciberseguridad con formación en normativas de seguridad (ISO 27001) y técnicas avanzadas de hacking ético. Me especializo en:
+        </p>
+        <ul style="text-align: justify;">
+            <li>Realización de auditorías de seguridad para identificar vulnerabilidades críticas.</li>
+            <li>Diseño e implementación de políticas de protección de datos adaptadas a las necesidades organizacionales.</li>
+            <li>Aplicación de normativas y estándares internacionales para garantizar la seguridad de los sistemas.</li>
+        </ul>
+        <p style="text-align: justify;">
+            Además de mi enfoque técnico, considero fundamental la formación y la concientización sobre ciberseguridad. Creo que educar a las personas es clave para prevenir amenazas y fortalecer la seguridad desde el factor humano. Por ello, comparto conocimientos, guías prácticas y estrategias para fomentar una cultura de seguridad en las organizaciones.
+        </p>
+        <p style="text-align: justify;">
+            Mi objetivo es contribuir al desarrollo de un entorno digital más seguro y resiliente mediante soluciones prácticas, educación y mejores prácticas del sector. 📂 Consulta mis proyectos y contribuciones en <a href="https://github.com/Tatennen">GitHub</a>.
+        </p>
+    `,
+    image: {
+        src: '/sec.jpg',
+        alt: 'A person sitting at a desk in front of a computer'
+    },
+    actions: [
+        {
+            text: 'Get in Touch',
+            href: '/contact'
+        }
+    ]
+}
+
     },
     subscribe: {
         title: 'Subscribe to Dante Newsletter',
