@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Ciberseguridad',
-    subtitle: '"Concientizando sobre ciberseguridad, una persona a la vez."',
+    subtitle: 'Concientizando sobre ciberseguridad, una persona a la vez.',
     description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
     image: {
         src: '/dante-preview.jpg',
