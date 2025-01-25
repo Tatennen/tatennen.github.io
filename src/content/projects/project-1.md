@@ -16,7 +16,7 @@ seo:
 **Resumen del Proyecto:**
 Proteger tus cuentas con contraseñas seguras y gestionarlas adecuadamente es esencial para evitar ciberataques y mantener tu información a salvo.
 
-## Objectivos
+## Objetivos
 
 1. Enseñar a crear contraseñas seguras:
 Proporcionar métodos y herramientas para que los participantes puedan generar contraseñas fuertes y difíciles de adivinar, cumpliendo con estándares de seguridad como longitud mínima, uso de caracteres especiales y evitación de datos personales.
