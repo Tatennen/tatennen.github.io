@@ -95,7 +95,7 @@ const siteConfig: SiteConfig = {
         title: 'Aprende hoy, Protege mañana',
     text: "José Ramírez Cortés, profesional en ciberseguridad con formación en normativas de seguridad (ISO 27001) y hacking ético. Me especializo en auditorías de seguridad, creación de políticas de protección de datos y aplicación de estándares internacionales. Creo en la importancia de la formación y concientización para prevenir amenazas y fortalecer la seguridad desde el factor humano. Mi objetivo es contribuir a un entorno digital más seguro a través de soluciones prácticas y educación. 📂 Consulta mis proyectos en <a href=https://github.com/Tatennen>GitHub</a> .",
         image: {
-            src: '/sec.jpg',
+            src: '/hero.jpg',
             alt: 'A person sitting at a desk in front of a computer'
         },
         actions: [
